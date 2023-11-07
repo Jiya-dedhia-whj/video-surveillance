@@ -1,0 +1,43 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+   margin: 0px;
+   width: 100%;
+   font-size: 30px;
+   font-weight: bold;
+   color: red;
+}
+
+#Start
+{
+    box-shadow: 7px 7px 7px rgb(172, 234, 117);
+    font-size: 20px;
+}
+
+#number_of_objects
+{
+    box-shadow: 7px 7px 7px rgb(234, 183, 117);
+}
+
+#status
+{
+    box-shadow: 7px 7px 7px rgb(234, 152, 117);
+}
+
+.footer
+{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    color: black;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+}
